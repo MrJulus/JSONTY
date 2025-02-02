@@ -1,0 +1,10 @@
+# Node.js
+/node_modules
+/npm-debug.log*
+
+# Environnement
+/.DS_Store
+/.env
+
+# IDE
+.vscode/

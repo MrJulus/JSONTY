@@ -1,0 +1,21 @@
+{
+    "set": {
+        "x": "10",
+        "y": "20"
+    },
+    "fct": {
+        "name": "addition",
+        "args": ["a", "b"],
+        "do": {
+            "set": {
+                "result": "(a) + (b)"
+            },
+            "return": "result"
+        }
+    },
+    "call": {
+        "name": "addition",
+        "args": ["(x)", "(y)"]
+    },
+    "show": ["Result : (result)"]
+}
