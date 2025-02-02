@@ -1,7 +1,7 @@
-# JSONScript - JSON-based Programming Language
+# JSONTY - JSON-based Programming Language
 
 ## 📌 Introduction
-JSONScript is a minimalist programming language based on JSON. It allows you to manipulate variables, perform operations, execute conditions, loops, and define functions.
+JSONTY is a minimalist programming language based on JSON. It allows you to manipulate variables, perform operations, execute conditions, loops, and define functions.
 Created by MrJulus
 
 ## Requirements
@@ -10,7 +10,7 @@ fs, readline-sync
 ```
 
 ## NPM Package
-You can also use the NPM Package : npm install jsonscript
+You can also use the NPM Package : npm install jsonty
 
 ---
 
