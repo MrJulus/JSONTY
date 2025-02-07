@@ -15,7 +15,7 @@ You can also use the NPM Package : npm install jsonty
 ---
 
 ## Features
-### available
+### Available
 [✅] Add functions with multiple return values    
 [✅] Add logical operators (>, <, =, !=, <=, >=)    
 [✅] Allow dynamic inputs (ask can be enhanced to support numbers).    
