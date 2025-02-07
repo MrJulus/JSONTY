@@ -14,6 +14,23 @@ You can also use the NPM Package : npm install jsonty
 
 ---
 
+## Features
+### Avaible
+[✅] Add functions with multiple return values    
+[✅] Add logical operators (>, <, =, !=, <=, >=)    
+[✅] Allow dynamic inputs (ask can be enhanced to support numbers).    
+[✅] Convert variables       
+[✅] Add a switch structure    
+
+### Coming soon...
+[❌] Add ternary operator (? :)    
+[❌] Add break and continue in loops    
+[❌] Add arrays and objects (set could allow more complex structures).    
+[❌] Add logical operators && and || for if and while.    
+[❌] Import from other files    
+
+---
+
 ## 📖 Syntax
 
 ### 🔹 Defining Variables
